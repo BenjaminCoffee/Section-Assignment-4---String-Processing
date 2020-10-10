@@ -1,0 +1,29 @@
+result of skeleton(x, i) = 
+	skeleton(13, 1) =
+		1
+
+result of witch(0, 1) =
+	x = 1
+	println( "witch: x = " + 1 + ", y = " + 1 )
+		1
+
+result of witch(1, skeleton(13, 2) )
+	skeleton(13, 2)
+		skeleton returns 0
+witch(1, 0) =
+	 x = 10
+	
+y = 10, i = 4
+
+skelton(13, 4)
+	
+skeleton(13, 8)
+y = 101
+
+
+output:
+	witch: x = 1, y = 1
+	witch: x = 10, y = 0
+	witch: x = 101, y = 1
+	witch: x = 1011, y = 1
+	ghost: x = 13, y = 1011
